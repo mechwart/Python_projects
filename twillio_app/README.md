@@ -4,9 +4,9 @@ It sends a SMS via a verified given phone number to your phone.
 
 ### Prerequisites
 
-Python (latest is the best)
-Terminal
-Twilio Account 
+Python (latest is the best)  
+Terminal  
+Twilio Account  
 
 ### Installing
 
