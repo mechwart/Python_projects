@@ -4,7 +4,7 @@ The basic Tic Tac Toe game implemented in Python.
 
 ### Prerequisites
 
-Python (latest is the best)
+Python (latest is the best)  
 Terminal
 
 ### Installing
