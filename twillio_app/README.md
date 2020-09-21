@@ -4,9 +4,9 @@ It sends a SMS via a verified given phone number to your phone.
 
 ### Prerequisites
 
-Python (latest is the best)
-Terminal
-Twilio Account 
+Python (latest is the best)  
+Terminal  
+Twilio Account  
 
 ### Installing
 
@@ -21,7 +21,7 @@ https://www.jetbrains.com/pycharm/download/#section=windows
 
 ## Running the tests
 
-After you created an account ,copy the Account SID, Auth Token, Trial Number and paste with replacing the 'X' and '#'  in the credentials.py.
+After you created an account ,copy the Account SID, Auth Token, Trial Number and paste with replacing the 'X'  in the credentials.py.
 
 To run the code and get a SMS on your phone use this command (if you are using Pycharm):
 ```
