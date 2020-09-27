@@ -4,8 +4,8 @@ A search term based, product's price tracker built in Python.
 
 ### Prerequisites
 
-Python (latest is the best)
-Terminal
+Python (latest is the best)  
+Terminal  
 Webdriver ( I would prefer Chrome's webdriver)  
 
 ### Installing
@@ -16,8 +16,8 @@ https://www.python.org/downloads/
 If you have Windows, I would recommend using JetBrains Python IDE (PyCharms), from this site:
 https://www.jetbrains.com/pycharm/download/#section=windows  
 
-If you want to use ChromeDriver (Chrome's webdriver), download that package ,which Chrome version you have also choose the right package based on your OP(operation system).
-
+If you want to use ChromeDriver (Chrome's webdriver), download that package, which Chrome version you have, also choose the right package based on your OP(operation system).  
+Link for the ChromeDriver: https://chromedriver.chromium.org/downloads  
 ## Running the tests
 
 To run the code use this command (if you are using Pycharm):
