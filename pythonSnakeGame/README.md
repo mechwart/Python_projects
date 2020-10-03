@@ -5,9 +5,9 @@ Snake game: https://en.wikipedia.org/wiki/Snake_(video_game_genre)
 
 ### Prerequisites
 
-Python (latest is the best)
-Terminal
-PyGame package
+Python (latest is the best)  
+Terminal  
+PyGame package  
 
 ### Installing
 
