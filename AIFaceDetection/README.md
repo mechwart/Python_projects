@@ -4,9 +4,9 @@ A face-detection program built in Python.
 
 ### Prerequisites
 
-Python (latest is the best)
-Terminal
-OpenCV
+Python (latest is the best)  
+Terminal  
+OpenCV  
 
 ### Installing
 
